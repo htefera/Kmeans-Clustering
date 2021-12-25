@@ -46,4 +46,6 @@ Testing the k_means using four clusters results the following results
   </div>
   <br>
 
+As we can see from the classification output, the function returns list of centroids and labels for each data
+points in four different clusters.
 
