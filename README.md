@@ -12,10 +12,10 @@ The whole problem is solved using the following 8 small functions.
 #### Step 5: Test the algorithm Convergence
 #### Step 6: Evaluate Performance of each cluster
 #### Step 7:Calculate Means Square Error for the all clusters
-The following plot demonstrates the mean square error vs number of clusters
+The following plot demonstrates the mean square error vs number of clusters <br>
 ![MSE](Images/mse.png)
 <div align="cener">
-  Figure 1: Mean Square Error"
+  Figure 1: Mean Square Error
   </div>
   <br>
 #### Step 8: Elbow Method Calculation
