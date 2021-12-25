@@ -2,7 +2,7 @@
 The objective of this project is to use k-mean clustering algorithm to cluster iris data set
 into different clusters.
 
-The whole problem is solved using the following 8 small functions.
+The whole problem is handled using the following 8 steps.
 
 #### Step 1: Load the data and convert into data matrix
 
